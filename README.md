@@ -1,5 +1,10 @@
-# A Versatile 
-Data repository for 
+# A Versatile Optical Frontend for Multicolor Fluorescence Imaging with Miniaturized Lensless Sensors
+## Lukas Harris, Micah Roschelle, Jack Bartley, and Mekhail Anwar
+ARXIV paper
+
+This repository includes all raw data and results shown in the paper. 
+
+Data in the main text can be found in [Main](Main) and the supplementary data can be found in [Main](Main). The data are organized by the figure number and letter. For example, data for Fig. 2(a) can be found in [Main/Fig 1/a](Main/Fig 1/a).
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
