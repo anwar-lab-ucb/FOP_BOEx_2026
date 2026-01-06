@@ -1,12 +1,14 @@
 # A Versatile Optical Frontend for Multicolor Fluorescence Imaging with Miniaturized Lensless Sensors
 ## Lukas Harris, Micah Roschelle, Jack Bartley, and Mekhail Anwar
-ARXIV paper
+[arXiv publication](https://arxiv.org/abs/2511.17860)
 
 This repository includes all raw data and results shown in the paper. 
 
-Data in the main text can be found in [Main](Main) and the supplementary data can be found in [Main](Main). The data are organized by the figure number and letter. For example, data for Fig. 2(a) can be found in [Main/Fig 1/a](Main/Fig 1/a).
+Data in the main text can be found in [Main](Main) and the supplementary data can be found in [Main](Main). The data are organized by the figure number and letter. For example, data for Fig. 2(a) can be found in [Main/Fig 2/a](./Main/Fig 2/a).
 
+## Please cite our work as: 
 
+## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
