@@ -7,6 +7,7 @@ This repository includes all raw data and results shown in the paper.
 Data in the main text can be found in [Main](Main) and the supplementary data can be found in [Supplemental](Supplemental). The data are organized by the figure number and letter. For example, data for Fig. 2(a) can be found in [Main/Fig 2/a](Main/Fig_2/a).
 
 ## Please cite our work as: 
+L. Harris, M. Roschelle, J. Bartley, and M. Anwar, “A Versatile Optical Frontend for Multicolor Fluorescence Imaging with Miniaturized Lensless Sensors,” Nov. 22, 2025, arXiv: arXiv:2511.17860. doi: [10.48550/arXiv.2511.17860](https://arxiv.org/abs/2511.17860).
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
